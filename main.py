@@ -1,9 +1,9 @@
 import pyfiglet
 import ddos, vpnandproxi
 
-ver = pyfiglet.Figlet('univers')  # font='slant'
-print(ver.renderText('VASNE'))
-
+#ver = pyfiglet.Figlet('univers')  # font='slant'
+#print(ver.renderText('VASNE'))
+print('Vasne')
 
 def function():
     print(f"""1.DDOS-ATTACK
