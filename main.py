@@ -1,4 +1,4 @@
-import pyfiglet
+
 import ddos, vpnandproxi
 
 #ver = pyfiglet.Figlet('univers')  # font='slant'
